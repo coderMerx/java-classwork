@@ -1,0 +1,20 @@
+class demo6
+{
+	public static void main(String[] args) 
+	{
+		char ch = '%';
+		System.out.println(ch);
+		
+		char ch = '#';
+		System.out.println(ch);
+		
+		float per = 98.3f;  // Add 'f' to indicate it's a float
+		System.out.println(per);
+		
+		String sname = "Dinga";  // Use double quotes for String
+		long phone = 98546255214L;  // Add 'L' to indicate it's a long literal
+		
+		System.out.print(phone);
+		System.out.print(sname);
+	}
+}

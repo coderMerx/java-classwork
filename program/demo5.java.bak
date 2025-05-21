@@ -1,0 +1,16 @@
+class demo5 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("program start");
+		int a = 30;
+		System.out.println(a);
+		double b;
+		String skill ="java";
+		b = 3.14;
+		System.out.println(skill);
+		skill = "sql";
+		System.out.println(skill);
+		System.out.println("Program ends");
+	}
+}
